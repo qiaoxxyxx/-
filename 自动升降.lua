@@ -1,3 +1,6 @@
+-- Made by Jxnt#9946
+-- I don't give permission to put this into any other GUI except the new Ninja Haxx because they technically made this first lol
+
 local gamepasses = {7235693}
 for _,v in next, gamepasses do
     if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then

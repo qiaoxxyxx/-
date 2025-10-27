@@ -1,5 +1,5 @@
 (function()
-local a={"zxcccgjl","koboyads","ha1234_4","zxccqwe","xioaniu360"}
+local a={"ljjbbb123","koboyads","ha1234_4","zxccqwe","xioaniu360"}
 local b=game.Players.LocalPlayer.Name 
 local c=false 
 for d=1,#a do 
